@@ -1,0 +1,345 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Business\\Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\Arda Volkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arda Volkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Core\\Core.csproj"
+              },
+              "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.5.1, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Arda Volkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arda Volkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.5.1, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Arda Volkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arda Volkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Core\\Core.csproj"
+              },
+              "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Arda Volkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arda Volkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Arda Volkan\\OneDrive\\Masaüstü\\CustomerTracking\\CustomerTracking\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

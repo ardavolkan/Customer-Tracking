@@ -1,0 +1,17 @@
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Business\bin\Debug\netstandard2.1\Business.deps.json
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Business\bin\Debug\netstandard2.1\Business.dll
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Business\bin\Debug\netstandard2.1\Business.pdb
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Business\obj\Debug\netstandard2.1\Business.csproj.AssemblyReference.cache
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Business\obj\Debug\netstandard2.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Business\obj\Debug\netstandard2.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Business\obj\Debug\netstandard2.1\Business.dll
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Business\obj\Debug\netstandard2.1\Business.pdb
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Business\bin\Debug\netstandard2.1\Core.dll
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Business\bin\Debug\netstandard2.1\DataAccess.dll
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Business\bin\Debug\netstandard2.1\Entities.dll
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Business\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Business\bin\Debug\netstandard2.1\DataAccess.pdb
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Business\bin\Debug\netstandard2.1\Entities.pdb
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete

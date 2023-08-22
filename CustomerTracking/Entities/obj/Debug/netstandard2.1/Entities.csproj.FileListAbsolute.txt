@@ -1,0 +1,13 @@
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Entities\bin\Debug\netstandard2.1\Entities.deps.json
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Entities\bin\Debug\netstandard2.1\Entities.dll
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Entities\bin\Debug\netstandard2.1\Entities.pdb
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Entities\obj\Debug\netstandard2.1\Entities.csproj.AssemblyReference.cache
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Entities\obj\Debug\netstandard2.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfo.cs
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Entities\obj\Debug\netstandard2.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Entities\obj\Debug\netstandard2.1\Entities.dll
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Entities\obj\Debug\netstandard2.1\Entities.pdb
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Entities\bin\Debug\netstandard2.1\Core.dll
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Entities\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\Arda Volkan\OneDrive\Masaüstü\CustomerTracking\CustomerTracking\Entities\obj\Debug\netstandard2.1\Entities.csproj.CopyComplete
